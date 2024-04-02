@@ -1,0 +1,32 @@
+[
+  {
+    "fieldName": "rep_name",
+    "name": "Sales rep",
+    "key": "rep_name"
+  },
+  {
+    "fieldName": "date",
+    "name": "Close date",
+    "key": "date"
+  },
+  {
+    "fieldName": "deal_amount",
+    "name": "Amount",
+    "key": "deal_amount"
+  },
+  {
+    "fieldName": "client_name",
+    "name": "Client",
+    "key": "client_name"
+  },
+  {
+    "fieldName": "city",
+    "name": "City",
+    "key": "city"
+  },
+  {
+    "fieldName": "is_closed",
+    "name": "Is closed?",
+    "key": "is_closed"
+  }
+]
